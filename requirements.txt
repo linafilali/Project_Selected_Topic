@@ -1,12 +1,9 @@
 streamlit
 pandas
-<<<<<<< HEAD
-requests
-=======
 requests
 plotly
 numpy
 sentence-transformers
 torch
 scikit-learn
->>>>>>> master
+faiss-cpu
