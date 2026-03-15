@@ -1,0 +1,47 @@
+NovaRetail KPI Threshold & Interpretation Rules
+
+This document defines the key performance indicators (KPIs) used by NovaRetail to evaluate business performance. These thresholds help analysts interpret sales data and identify whether current results represent strong performance, stable operations, or potential business risks.
+
+1. Profit Margin Interpretation
+
+Profit margin measures the percentage of profit generated from total revenue.
+
+* Above 30% → Strong Performance
+* Between 25% and 30% → Healthy Performance
+* Between 20% and 25% → Warning Level
+* Below 20% → High Financial Risk
+
+2. Revenue Growth Rate
+
+Revenue growth measures the rate at which total sales increase over time.
+
+* Above 12% → Excellent Growth
+* Between 8% and 12% → Healthy Growth
+* Between 5% and 8% → Moderate Growth
+* Below 5% → Growth Concern
+* Negative Growth → Critical Performance Issue
+
+3. Cost-to-Revenue Ratio
+
+This metric evaluates operational efficiency by comparing total operational costs with total revenue.
+
+* Below 70% → Efficient Cost Structure
+* Between 70% and 80% → Acceptable Efficiency
+* Above 80% → Cost Control Risk
+
+4. Regional Contribution
+
+Regional contribution measures how much each region contributes to total company revenue.
+
+* Above 35% of total revenue → Core Region
+* Between 20% and 35% → Stable Region
+* Below 20% → Underperforming Region
+
+5. Product Performance
+
+Product-level analysis helps identify which products contribute most to company success.
+
+* Products contributing to the top 20% of total revenue → Strategic Products
+* Products with profit margins below 15% → Low Margin Risk
+
+These KPI interpretation rules help NovaRetail monitor financial health, identify underperforming areas, and support data-driven strategic decision making.
